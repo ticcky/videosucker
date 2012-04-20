@@ -3,7 +3,13 @@ Video Sucker - pcap file video extractor
 This is a tool that sucks the videos out of your .pcap files.
 It reconstructs the original TCP streams, processes HTTP messages,
 and looks for video transfers in them. The videos are dumped into
-a chosen folder
+a chosen folder.
+
+Tested with:
+        - VIMEO.com
+        - youtube.com
+        - facebook.com
+        - stream.cz
 
 For research and educational purposes ONLY.
 
